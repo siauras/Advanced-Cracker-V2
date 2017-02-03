@@ -3,7 +3,7 @@ AddCSLuaFile("shared.lua");
 AddCSLuaFile("cl_init.lua"); 
 include("shared.lua")
  
- resource.AddWorkshop( "810743320" ) // Contains required image for UI
+ resource.AddWorkshop( "855821650" ) // Contains required image for UI
  resource.AddFile("content/resource/fonts/lato-regular.ttf");
  
 //*******//
